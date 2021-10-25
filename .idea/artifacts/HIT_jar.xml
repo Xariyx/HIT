@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HIT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HIT_jar</output-path>
+    <root id="archive" name="HIT.jar">
+      <element id="module-output" name="HIT" />
+    </root>
+  </artifact>
+</component>
