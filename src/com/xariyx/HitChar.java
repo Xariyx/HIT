@@ -20,7 +20,7 @@ public interface HitChar {
     String F = "▛";
     String G = "█▞";
     String H = "█▬█";
-    String I = "▐";
+    String I = "█";
     String J = "▄▌";
     String K = "▐▞▖";
     String L = "▐▖";
